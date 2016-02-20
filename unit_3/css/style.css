@@ -1,0 +1,24 @@
+#header{
+	overflow:hidden;
+	text-transform:uppercase;
+}
+#header{
+	display: block;
+}
+#header .holder{
+	float:right;
+}
+#container {
+	background-color: #C0D4FC;
+  	background: url("../images/hero.jpg") repeat-x 0px 0px; 
+  	background-size: cover;
+}
+h1,  {
+	text-align: center;
+	color: #ff6699;
+}
+p {
+	text-align:center;
+	font:18px/20px 'Roboto',Arial,Helvetica,sans-serif;
+	color:#858585;
+}
