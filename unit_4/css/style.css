@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+#header{
+	overflow:hidden;
+	text-transform:uppercase;
+}
+#header{
+	display: block;
+}
+#header .holder{
+	float:right;
+}
+h1  {
+	font-family: 'Lato';
+	font-weight: 700;
+	text-align: center;
+	color: #ff6699;
+}
+#container {
+	background-color: #C0D4FC;
+  	background: url("../images/hero.jpg") repeat-x 0px 0px; 
+  	background-size: cover;
+}
+p {
+	text-align:center;
+	font:18px/20px 'Lato',Arial,Helvetica,sans-serif;
+	color:#858585;
+}
